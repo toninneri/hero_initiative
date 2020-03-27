@@ -15,6 +15,4 @@ app.use(routes);
  * Rota / recurso tentando...
  */
 
-
-
 app.listen(3333);
